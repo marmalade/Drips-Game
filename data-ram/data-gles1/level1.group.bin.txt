@@ -1,0 +1,22 @@
+ResGroupResources:
+	CIwTexture (0x3521f539)
+		"bucket" (0xf4f5e383)
+		Size: 16416
+	CIwTexture (0x3521f539)
+		"water_drop" (0xb7288e3c)
+		Size: 1824
+	CIwTexture (0x3521f539)
+		"background" (0x677e1785)
+		Size: 614432
+	CIwTexture (0x3521f539)
+		"cloud" (0xf3b9a9c)
+		Size: 22432
+	ResList 'CIwTexture' pos:37 size:655114
+
+	CIwGxFont (0xa68776be)
+		"trebuchet_12" (0xd2d97c2d)
+		Size: 198433
+	ResList 'CIwGxFont' pos:655151 size:198443
+
+ResGroupResources: Wrote 853561 bytes to CIwResGroup "Level1"
+

@@ -1,0 +1,14 @@
+CIwResGroup
+{
+	name "Level1"
+
+	// Graphics
+	"./bucket.png"
+	"./water_drop.png"
+	"./background.png"
+	"./cloud.png"
+
+	// Fonts
+	"./trebuchet_12.gxfont"
+
+}
